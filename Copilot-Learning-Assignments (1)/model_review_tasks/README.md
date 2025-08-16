@@ -1,0 +1,1 @@
+Use the template to document your experience with different Copilot models.

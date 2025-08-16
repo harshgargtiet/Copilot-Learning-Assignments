@@ -1,0 +1,1 @@
+Add exception handling to prevent runtime errors when dividing by zero.
